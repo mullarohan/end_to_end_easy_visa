@@ -18,3 +18,6 @@ pip install -r requirements.txt
 ```bash
 python app.py
 ```
+
+### Data used in this project
+- Kaggle [Dataset Link](https://www.kaggle.com/datasets/moro23/easyvisa-dataset)
